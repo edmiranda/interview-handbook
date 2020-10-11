@@ -6,7 +6,8 @@ This repository has a mission of get an offer from:
 - Google 
 - Amazon 
 - Microsoft 
-- Netflix  
+- Netflix
+- Etc..
 
 We will upload material that can help us to apply in some positions like:  
 
