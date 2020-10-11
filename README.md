@@ -1,4 +1,4 @@
-# My Journey Interview
+# My Interview Handbook
 
 This repository has a mission of get an offer from:  
 
